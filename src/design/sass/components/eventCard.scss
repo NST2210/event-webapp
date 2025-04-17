@@ -1,0 +1,12 @@
+.event-card {
+  border: 1px solid #A9ACB2;
+  border-radius: 20px;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  .event-img {
+    border-radius: 20px 20px 0 0;
+  }
+}

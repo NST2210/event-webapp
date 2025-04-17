@@ -1,0 +1,12 @@
+//helpers
+@use 'helpers/global.scss';
+@use 'helpers/custom.scss';
+// pages
+@use 'pages/home.scss';
+//components
+@use 'components/footer.scss';
+@use 'components/header.scss';
+@use 'components/eventCard.scss';
+@use 'components/panigation.scss';
+//modal
+@use 'components/modal/createEventModal.scss';
